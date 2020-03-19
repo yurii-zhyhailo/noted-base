@@ -12,7 +12,7 @@ body {
 a {
   color: black;
   text-decoration: none;
-  border-bottom: 5px solid pink;
+  border-bottom: 5px solid salmon;
 }
 
 a:visited {
